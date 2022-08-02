@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi 👋
 
-### More Information
+I’m Dawid and I build apps in Flutter.
 
-A place to include any other types of information that you'd like to include about yourself.
+I am Flutter Unity Developer. Let me know if I we can help you with your project. I’ve been using Flutter since its beginnings and have experience with implementing Flutter and Unity.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dawsze567@gmail.com](mailto:dawsze567@gmail.com)
