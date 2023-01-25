@@ -44,6 +44,6 @@ Each data which will read from ESP-32 module will save on Firebase Realtime Data
 
 ![_config.yml]({{ site.baseurl }}/images/esp-post/esp-firebase-temp.png)
 
-To read data from the server i implemented simple flutter app:
+To read data from the server We implemented simple flutter app:
 
 ![_config.yml]({{ site.baseurl }}/images/esp-post/esp-mobile.gif)
